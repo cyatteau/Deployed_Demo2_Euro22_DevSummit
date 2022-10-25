@@ -1,4 +1,5 @@
-import API_KEY from "./js/apikey";
+const API_KEY =
+  "AAPK76fed89cb1764cce9398463e9fc052555aTd1E9hnI_fGaSJiJw7quybJ5odEfRL617ryqPHHAf4RJaK4g9yBsc0wBOuP8Eu";
 const authentication = arcgisRest.ApiKeyManager.fromKey(API_KEY);
 
 let sugg = [];
