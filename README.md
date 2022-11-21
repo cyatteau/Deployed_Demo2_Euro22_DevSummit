@@ -19,5 +19,5 @@ This button allows you to create a copy of the application to your Github accoun
 
 ## Other Requirements <a name="req"></a>
 
-- Sign up for an [ArcGIS Developer Account](https://developers.arcgis.com/sign-up/)
+- Sign up for an [ArcGIS Developer Account](https://developers.arcgis.com/sign-up/).
 - Get an API Key. Find video instructions [here](https://www.youtube.com/watch?v=StVncn6DLzc.).
