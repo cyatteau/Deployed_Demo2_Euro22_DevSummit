@@ -7,6 +7,9 @@ A simple address form that uses ArcGIS Rest JS to perform address validation, su
 
 ## Live Demo Clip
 
+## Live Demo
+Test out the demo [here](https://arcgis-restjs-address-form.netlify.app/).
+
 ## Required Dependencies <a name="dep"></a>
 
 - `npm install @esri/arcgis-rest-request`. Find API Reference info [here](https://developers.arcgis.com/arcgis-rest-js/api-reference/arcgis-rest-request/).
@@ -16,3 +19,4 @@ A simple address form that uses ArcGIS Rest JS to perform address validation, su
 
 - Sign up for an [ArcGIS Developer Account](https://developers.arcgis.com/sign-up/)
 - Get an API Key. Find video instructions [here](https://www.youtube.com/watch?v=StVncn6DLzc.).
+
